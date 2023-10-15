@@ -1,0 +1,11 @@
+{
+  "name": "20",
+  "version": "1.0.0",
+  "description": "deskitpion",
+  "main": "index.js",
+  "scripts": {
+    "test": "teschtKommand"
+  },
+  "author": "ban",
+  "license": "ISC"
+}
